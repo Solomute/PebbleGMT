@@ -1,0 +1,30 @@
+{
+    "targetPlatforms": [
+        "aplite", 
+        "basalt", 
+        "chalk", 
+        "diorite"
+    ], 
+    "displayName": "PebbleGMT", 
+    "name": "PebbleGMT", 
+    "messageKeys": {
+        "dummy": 10000
+    }, 
+    "companyName": "SteveTech", 
+    "enableMultiJS": true, 
+    "versionLabel": "1.0", 
+    "capabilities": [], 
+    "sdkVersion": "3", 
+    "appKeys": {
+        "dummy": 10000
+    }, 
+    "longName": "PebbleGMT", 
+    "shortName": "PebbleGMT", 
+    "watchapp": {
+        "watchface": true
+    }, 
+    "resources": {
+        "media": []
+    }, 
+    "uuid": "df6ed0e4-1add-4b43-8406-fb2f75887750"
+}
